@@ -179,6 +179,6 @@ function winner(){
 
 }
 document.querySelector(".playAgain").addEventListener("click", function() {
- window.location.assign("https://codepen.io/AJennifer/pen/WzOQaV")
+ window.location.assign("https://hajennifer.github.io/Supercharge-memory/")
 
 });
