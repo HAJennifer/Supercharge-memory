@@ -8,6 +8,6 @@ How it is works:
     - If they are not, flip them back.
 - The game ends when all cards are removed.
 -Present the user with a score counter that increments after every card flip.
--Present the user with a star rating.
+- Present the user with a star rating.
 # Let's try your memory and my version out !
  https://hajennifer.github.io/Supercharge-memory/
